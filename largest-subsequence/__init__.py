@@ -1,4 +1,6 @@
 '''
+Simple O(n) solution to largest subarray of integers.
+
 @input an array of integers
 '''
 def largestSubSequence(input):
