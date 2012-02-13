@@ -184,7 +184,6 @@ def dcCooling(width, height, values):
     
     return getNumPaths(*startingPoint)
 
-
 if __name__ == "__main__" :
     
     #expected 0
